@@ -4,8 +4,6 @@ A fully functional task management mobile application built with React Native an
 
 ---
 
-## 🔗 Live Demo
-
 [Expo Snack Demo](https://github.com/abdelfatahmoustafa/ToDo-ReactNative) <!-- ضع رابط Expo Snack أو APK هنا إذا توفر -->
 
 ---
